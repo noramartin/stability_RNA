@@ -1,0 +1,9 @@
+,25percentile,50percentile,5percentile,75percentile,95percentile,role in structure
+0,0.0,0.3,0.0,1.1,3.1,hairpin loop (end)
+1,0.0,0.0,0.0,0.0,0.7,hairpin loop (middle)
+2,0.9,1.8,0.0,2.3,3.2,stack (end)
+3,0.4,1.3,0.0,2.3,4.8,stack (middle)
+4,0.4,2.0,0.0,4.2,6.2,bulge (end)
+5,2.6,4.5,0.4,6.1,7.6,internal loop (end)
+6,0.0,0.2,0.0,0.7,2.8,exterior loop (end)
+7,0.0,0.0,0.0,0.0,1.6,exterior loop (middle)
